@@ -1,3 +1,3 @@
 # Alura-Midi
 
-Projeto criado pela Alura para ensinar JavaScript. 
+Projeto realizado durante o curso da Alura de JavaScript. 
